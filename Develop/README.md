@@ -1,18 +1,21 @@
-# gen read me 
-![Github license](https://img.shields.io/badge/license--blue.svg)
+
+## hi
+## Licensing 
+undefined
+[License Info](https://choosealicense.com/licenses/)
 ## Description
-creates readme file based on user answers
+my
 ## Deployed Application URL
-not yet
+is
 ## Screenshot
-![alt-text](perhaps)
+![alt-text](name)
 ## Table of Contents
 * [Features](#features)
 * [Languages & Dependencies](#languagesanddependencies)
 * [How to Use This Application](#HowtoUseThisApplication)
 ## Features
-license badge
+yuio
 ## Languages & Dependencies
-inquirer
+poiu
 ## How to Use This Application:
-undefined
+;pokjhgf

@@ -57,8 +57,12 @@ const questions = [
     type: "input",
     name: "email",
     message: "Email address?",
+  },
+  {
+    type: 'input',
+    name: 'usage',
+    message: 'How do you use this app?'
   }
-
 ];
 
 // Writing README.md File

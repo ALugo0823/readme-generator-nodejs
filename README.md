@@ -19,6 +19,8 @@
   ## Usage
   
  After the package is installed, the user must type in "node index" in the terminal, which will begin the questions used to generate the README file. 
+
+ ScreenCastify Video Walkthrough: https://drive.google.com/file/d/160M95gfpRDDjGXIbhvMk6-2bzWak6PmC/view
   
   ## Tech used
   * JavaScript

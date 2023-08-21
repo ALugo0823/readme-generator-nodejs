@@ -27,11 +27,12 @@ function renderLicenseLink() {
   return `[License Info](https://choosealicense.com/licenses/)`
 }
 
-// TODO: Create a function to generate markdown for README
+// function to generate markdown for README
 function generateMarkdown(data) {  
   return `
 ## ${data.title}
-## Licensing 
+## Licensing
+![Github licence](https://img.shields.io/badge/license-${data.license}-blue.svg)
 ${renderLicenseBadge(data.license)}
 ${renderLicenseLink()}
 ## Description

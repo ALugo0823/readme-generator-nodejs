@@ -1,21 +1,22 @@
 
-## hi
-## Licensing 
+## Example title
+## Licensing
+![Github licence](https://img.shields.io/badge/license--blue.svg)
 undefined
 [License Info](https://choosealicense.com/licenses/)
 ## Description
-my
+Generates readme file
 ## Deployed Application URL
-is
+yes
 ## Screenshot
-![alt-text](name)
+![alt-text](not now)
 ## Table of Contents
 * [Features](#features)
 * [Languages & Dependencies](#languagesanddependencies)
 * [How to Use This Application](#HowtoUseThisApplication)
 ## Features
-yuio
+has license icon at the top
 ## Languages & Dependencies
-poiu
+inquirer package
 ## How to Use This Application:
-;pokjhgf
+Through the terminal command prompts
